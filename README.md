@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm ✨ Javi Herrera ✨ 👋
 
-<!--
-**japsolo/japsolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on GraphQL, but I’m also interested in other technologies.
+- 🌱 I’m currently learning: Next.js and improving my skills with TypeScript.
+- 💬 Ask me about: HTML, CSS and JavaScript, React, NodeJS.
+- 📫 How to reach me: drop me a line to [contact@javier-herrera.com](mailto:contact@javier-herrera.com)
+- ⚡ Fun fact: I'm a freaking lover of ☕️  and 🍟
 
-Here are some ideas to get you started:
+![Japsolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=japsolo&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japsolo&langs_count=5&theme=cobalt&layout=compact)
+
+
