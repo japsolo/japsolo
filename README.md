@@ -11,5 +11,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japsolo&langs_count=5&theme=cobalt&layout=compact)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=japsolo)](https://github.com/anuraghazra/github-readme-stats)
+![Japso's GitHub stats](https://github-readme-stats.vercel.app/api?username=japsolo)
 
